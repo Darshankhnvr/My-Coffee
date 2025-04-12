@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
+    "name": "MyCoffee",
+    "slug": "MyCoffee",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/icon.jpg",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
